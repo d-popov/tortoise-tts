@@ -61,7 +61,7 @@ will spend a lot of time chasing dependency problems.
 Next, install TorToiSe and it's dependencies:
 
 ```shell
-git clone https://github.com/neonbjb/tortoise-tts.git
+git clone https://github.com/d-popov/tortoise-tts.git
 cd tortoise-tts
 python -m pip install -r ./requirements.txt
 python setup.py install
